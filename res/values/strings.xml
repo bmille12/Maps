@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maps</string>
+    <string name="action_getGPS">Get GPS Location</string>
+    <string name="action_distance">Distance from Glasgow...</string>
+    <string name="action_distanceEvent">Distance from Event...</string>
+    <string name="action_countries">Previous Games</string>
+    <string name="action_return">Return to Glasgow</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_view">Change Map Type</string>
+    <string name="subViewNorm">Normal Map</string>
+    <string name="subViewTerr">Terrain Map</string>
+    <string name="subViewHyb">Hybrid Map</string>
+    <string name="subCountry1">Delhi</string>
+    <string name="subCountry2">Melbourne</string>
+    <string name="subCountry3">Manchester</string>
+    <string name="subCountry4">Kuala Lumpur</string>
+    <string name="subCountry5">Victoria</string>
+    <string name="subCountry6">Auckland</string>
+    <string name="subCountry7">Edinburgh</string>
+    <string name="subCountry8">Brisbane</string>
+    <string name="subCountry9">Edmonton</string>
+    <string name="subCountry10">Christchurch</string>
+    <string name="subEvent1">SECC</string>
+    <string name="subEvent2">Barry Buddon Shooting Centre</string>
+    <string name="subEvent3">Parkhead</string>
+    <string name="subEvent4">Cathkin Braes Lumpur</string>
+    <string name="subEvent5">Velodrome</string>
+    <string name="subEvent6">Hockey</string>
+    <string name="subEvent7">Hampden</string>
+    <string name="subEvent8">Ibrox</string>
+    <string name="subEvent9">Bowls</string>
+    <string name="subEvent10">Scotsoun Sports Campus</string>
+    <string name="subEvent11">Tollcross Swimming Centre</string>
+    <string name="subEvent12">Strathclyde Country Park</string>
+
+</resources>
